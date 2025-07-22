@@ -1,0 +1,691 @@
+trip_origin_date|mode_name|ti_region|tap_hour|Tap_Ons|Tap_Offs
+2023-08-01|Bus|Chatswood|0|<50|<50
+2023-08-01|Bus|Macquarie Park|0|<50|<50
+2023-08-01|Bus|North Sydney|0|<50|<50
+2023-08-01|Bus|Other|0|600|1100
+2023-08-01|Bus|Parramatta|0|<50|<50
+2023-08-01|Bus|Strathfield|0|<50|<50
+2023-08-01|Bus|Sydney CBD|0|400|100
+2023-08-01|Bus|All - NSW|0|1000|1200
+2023-08-01|Bus|Chatswood|1|<50|<50
+2023-08-01|Bus|Macquarie Park|1|<50|<50
+2023-08-01|Bus|North Sydney|1|<50|<50
+2023-08-01|Bus|Other|1|300|400
+2023-08-01|Bus|Parramatta|1|<50|<50
+2023-08-01|Bus|Strathfield|1|<50|<50
+2023-08-01|Bus|Sydney CBD|1|200|100
+2023-08-01|Bus|All - NSW|1|500|500
+2023-08-01|Bus|Chatswood|2|<50|<50
+2023-08-01|Bus|Macquarie Park|2|<50|<50
+2023-08-01|Bus|Newcastle and surrounds|2|<50|<50
+2023-08-01|Bus|North Sydney|2|<50|<50
+2023-08-01|Bus|Other|2|300|400
+2023-08-01|Bus|Parramatta|2|<50|<50
+2023-08-01|Bus|Strathfield|2|<50|<50
+2023-08-01|Bus|Sydney CBD|2|200|100
+2023-08-01|Bus|All - NSW|2|500|500
+2023-08-01|Bus|Chatswood|3|<50|<50
+2023-08-01|Bus|Macquarie Park|3|<50|<50
+2023-08-01|Bus|North Sydney|3|<50|<50
+2023-08-01|Bus|Other|3|400|300
+2023-08-01|Bus|Parramatta|3|<50|<50
+2023-08-01|Bus|Strathfield|3|<50|<50
+2023-08-01|Bus|Sydney CBD|3|100|100
+2023-08-01|Bus|All - NSW|3|500|400
+2023-08-01|Bus|Chatswood|4|<50|<50
+2023-08-01|Bus|Macquarie Park|4|<50|<50
+2023-08-01|Bus|North Sydney|4|<50|<50
+2023-08-01|Bus|Other|4|1600|900
+2023-08-01|Bus|Parramatta|4|<50|<50
+2023-08-01|Bus|Strathfield|4|<50|<50
+2023-08-01|Bus|Sydney CBD|4|100|200
+2023-08-01|Bus|All - NSW|4|1700|1100
+2023-08-01|Bus|Chatswood|5|100|100
+2023-08-01|Bus|Macquarie Park|5|100|100
+2023-08-01|Bus|Newcastle and surrounds|5|<50|<50
+2023-08-01|Bus|North Sydney|5|100|<50
+2023-08-01|Bus|Other|5|10300|6800
+2023-08-01|Bus|Parramatta|5|500|400
+2023-08-01|Bus|Strathfield|5|200|100
+2023-08-01|Bus|Sydney CBD|5|800|1100
+2023-08-01|Bus|Wollongong and surrounds|5|<50|<50
+2023-08-01|Bus|All - NSW|5|12100|8600
+2023-08-01|Bus|Chatswood|6|400|200
+2023-08-01|Bus|Macquarie Park|6|200|300
+2023-08-01|Bus|Newcastle and surrounds|6|<50|<50
+2023-08-01|Bus|North Sydney|6|100|200
+2023-08-01|Bus|Other|6|28400|21600
+2023-08-01|Bus|Parramatta|6|1100|1000
+2023-08-01|Bus|Strathfield|6|300|300
+2023-08-01|Bus|Sydney CBD|6|2500|3700
+2023-08-01|Bus|Wollongong and surrounds|6|100|100
+2023-08-01|Bus|All - NSW|6|33100|27400
+2023-08-01|Bus|Chatswood|7|600|600
+2023-08-01|Bus|Macquarie Park|7|1000|800
+2023-08-01|Bus|Newcastle and surrounds|7|100|100
+2023-08-01|Bus|North Sydney|7|500|900
+2023-08-01|Bus|Other|7|70900|43100
+2023-08-01|Bus|Parramatta|7|1900|2700
+2023-08-01|Bus|Strathfield|7|600|600
+2023-08-01|Bus|Sydney CBD|7|3100|10900
+2023-08-01|Bus|Wollongong and surrounds|7|400|600
+2023-08-01|Bus|All - NSW|7|79100|60300
+2023-08-01|Bus|Chatswood|8|800|900
+2023-08-01|Bus|Macquarie Park|8|1100|1300
+2023-08-01|Bus|Newcastle and surrounds|8|100|100
+2023-08-01|Bus|North Sydney|8|1000|2000
+2023-08-01|Bus|Other|8|74800|63400
+2023-08-01|Bus|Parramatta|8|2100|3500
+2023-08-01|Bus|Strathfield|8|600|800
+2023-08-01|Bus|Sydney CBD|8|4800|23700
+2023-08-01|Bus|Wollongong and surrounds|8|700|1300
+2023-08-01|Bus|All - NSW|8|86000|97000
+2023-08-01|Bus|Chatswood|9|300|500
+2023-08-01|Bus|Macquarie Park|9|400|1100
+2023-08-01|Bus|Newcastle and surrounds|9|100|100
+2023-08-01|Bus|North Sydney|9|400|900
+2023-08-01|Bus|Other|9|36100|36200
+2023-08-01|Bus|Parramatta|9|900|1900
+2023-08-01|Bus|Strathfield|9|400|300
+2023-08-01|Bus|Sydney CBD|9|3600|10600
+2023-08-01|Bus|Wollongong and surrounds|9|200|400
+2023-08-01|Bus|All - NSW|9|42400|52000
+2023-08-01|Bus|Chatswood|10|300|400
+2023-08-01|Bus|Macquarie Park|10|400|800
+2023-08-01|Bus|Newcastle and surrounds|10|<50|100
+2023-08-01|Bus|North Sydney|10|200|200
+2023-08-01|Bus|Other|10|29000|27100
+2023-08-01|Bus|Parramatta|10|800|1000
+2023-08-01|Bus|Strathfield|10|200|200
+2023-08-01|Bus|Sydney CBD|10|2400|4000
+2023-08-01|Bus|Wollongong and surrounds|10|200|300
+2023-08-01|Bus|All - NSW|10|33500|34100
+2023-08-01|Bus|Chatswood|11|300|400
+2023-08-01|Bus|Macquarie Park|11|400|600
+2023-08-01|Bus|Newcastle and surrounds|11|100|100
+2023-08-01|Bus|North Sydney|11|200|200
+2023-08-01|Bus|Other|11|29200|27600
+2023-08-01|Bus|Parramatta|11|900|1000
+2023-08-01|Bus|Strathfield|11|300|200
+2023-08-01|Bus|Sydney CBD|11|2600|3700
+2023-08-01|Bus|Wollongong and surrounds|11|200|200
+2023-08-01|Bus|All - NSW|11|34200|34000
+2023-08-01|Bus|Chatswood|12|400|400
+2023-08-01|Bus|Macquarie Park|12|400|600
+2023-08-01|Bus|Newcastle and surrounds|12|100|100
+2023-08-01|Bus|North Sydney|12|300|200
+2023-08-01|Bus|Other|12|29400|28700
+2023-08-01|Bus|Parramatta|12|900|900
+2023-08-01|Bus|Strathfield|12|300|200
+2023-08-01|Bus|Sydney CBD|12|3200|3300
+2023-08-01|Bus|Wollongong and surrounds|12|300|200
+2023-08-01|Bus|All - NSW|12|35300|34600
+2023-08-01|Bus|Chatswood|13|400|300
+2023-08-01|Bus|Macquarie Park|13|600|500
+2023-08-01|Bus|Newcastle and surrounds|13|100|100
+2023-08-01|Bus|North Sydney|13|300|200
+2023-08-01|Bus|Other|13|31400|31800
+2023-08-01|Bus|Parramatta|13|1300|900
+2023-08-01|Bus|Strathfield|13|300|200
+2023-08-01|Bus|Sydney CBD|13|3900|3300
+2023-08-01|Bus|Wollongong and surrounds|13|300|200
+2023-08-01|Bus|All - NSW|13|38600|37500
+2023-08-01|Bus|Chatswood|14|600|300
+2023-08-01|Bus|Macquarie Park|14|600|500
+2023-08-01|Bus|Newcastle and surrounds|14|100|100
+2023-08-01|Bus|North Sydney|14|400|300
+2023-08-01|Bus|Other|14|41200|40000
+2023-08-01|Bus|Parramatta|14|1500|1000
+2023-08-01|Bus|Strathfield|14|300|300
+2023-08-01|Bus|Sydney CBD|14|4600|3600
+2023-08-01|Bus|Wollongong and surrounds|14|1000|300
+2023-08-01|Bus|All - NSW|14|50300|46400
+2023-08-01|Bus|Chatswood|15|1000|700
+2023-08-01|Bus|Macquarie Park|15|1000|600
+2023-08-01|Bus|Newcastle and surrounds|15|100|100
+2023-08-01|Bus|North Sydney|15|1000|500
+2023-08-01|Bus|Other|15|60400|60900
+2023-08-01|Bus|Parramatta|15|2400|1500
+2023-08-01|Bus|Strathfield|15|800|500
+2023-08-01|Bus|Sydney CBD|15|6700|4400
+2023-08-01|Bus|Wollongong and surrounds|15|1300|700
+2023-08-01|Bus|All - NSW|15|74700|69900
+2023-08-01|Bus|Chatswood|16|900|600
+2023-08-01|Bus|Macquarie Park|16|1300|800
+2023-08-01|Bus|Newcastle and surrounds|16|100|100
+2023-08-01|Bus|North Sydney|16|1100|400
+2023-08-01|Bus|Other|16|48100|55400
+2023-08-01|Bus|Parramatta|16|2700|1700
+2023-08-01|Bus|Strathfield|16|500|400
+2023-08-01|Bus|Sydney CBD|16|11100|5800
+2023-08-01|Bus|Wollongong and surrounds|16|400|400
+2023-08-01|Bus|All - NSW|16|66200|65600
+2023-08-01|Bus|Chatswood|17|800|700
+2023-08-01|Bus|Macquarie Park|17|1400|800
+2023-08-01|Bus|Newcastle and surrounds|17|200|100
+2023-08-01|Bus|North Sydney|17|1600|600
+2023-08-01|Bus|Other|17|46500|59300
+2023-08-01|Bus|Parramatta|17|2700|1600
+2023-08-01|Bus|Strathfield|17|700|500
+2023-08-01|Bus|Sydney CBD|17|19200|6400
+2023-08-01|Bus|Wollongong and surrounds|17|400|300
+2023-08-01|Bus|All - NSW|17|73500|70300
+2023-08-01|Bus|Chatswood|18|600|500
+2023-08-01|Bus|Macquarie Park|18|800|700
+2023-08-01|Bus|Newcastle and surrounds|18|<50|<50
+2023-08-01|Bus|North Sydney|18|800|400
+2023-08-01|Bus|Other|18|30400|52200
+2023-08-01|Bus|Parramatta|18|2200|1300
+2023-08-01|Bus|Strathfield|18|600|400
+2023-08-01|Bus|Sydney CBD|18|11500|4300
+2023-08-01|Bus|Wollongong and surrounds|18|200|100
+2023-08-01|Bus|All - NSW|18|47100|59900
+2023-08-01|Bus|Chatswood|19|300|200
+2023-08-01|Bus|Macquarie Park|19|500|300
+2023-08-01|Bus|Newcastle and surrounds|19|<50|<50
+2023-08-01|Bus|North Sydney|19|200|200
+2023-08-01|Bus|Other|19|14900|24100
+2023-08-01|Bus|Parramatta|19|1000|500
+2023-08-01|Bus|Strathfield|19|300|100
+2023-08-01|Bus|Sydney CBD|19|5000|1900
+2023-08-01|Bus|Wollongong and surrounds|19|100|100
+2023-08-01|Bus|All - NSW|19|22300|27400
+2023-08-01|Bus|Chatswood|20|100|100
+2023-08-01|Bus|Macquarie Park|20|300|200
+2023-08-01|Bus|Newcastle and surrounds|20|<50|<50
+2023-08-01|Bus|North Sydney|20|100|100
+2023-08-01|Bus|Other|20|10300|13300
+2023-08-01|Bus|Parramatta|20|600|400
+2023-08-01|Bus|Strathfield|20|200|100
+2023-08-01|Bus|Sydney CBD|20|3000|1400
+2023-08-01|Bus|Wollongong and surrounds|20|<50|<50
+2023-08-01|Bus|All - NSW|20|14600|15600
+2023-08-01|Bus|Chatswood|21|200|100
+2023-08-01|Bus|Macquarie Park|21|200|100
+2023-08-01|Bus|Newcastle and surrounds|21|<50|<50
+2023-08-01|Bus|North Sydney|21|100|100
+2023-08-01|Bus|Other|21|8100|10800
+2023-08-01|Bus|Parramatta|21|400|300
+2023-08-01|Bus|Strathfield|21|200|100
+2023-08-01|Bus|Sydney CBD|21|2900|1200
+2023-08-01|Bus|Wollongong and surrounds|21|<50|<50
+2023-08-01|Bus|All - NSW|21|12100|12700
+2023-08-01|Bus|Chatswood|22|100|100
+2023-08-01|Bus|Macquarie Park|22|100|100
+2023-08-01|Bus|Newcastle and surrounds|22|<50|<50
+2023-08-01|Bus|North Sydney|22|<50|<50
+2023-08-01|Bus|Other|22|4900|6800
+2023-08-01|Bus|Parramatta|22|200|100
+2023-08-01|Bus|Strathfield|22|100|100
+2023-08-01|Bus|Sydney CBD|22|1600|800
+2023-08-01|Bus|Wollongong and surrounds|22|<50|<50
+2023-08-01|Bus|All - NSW|22|7000|8000
+2023-08-01|Bus|Chatswood|23|<50|<50
+2023-08-01|Bus|Macquarie Park|23|100|<50
+2023-08-01|Bus|Newcastle and surrounds|23|<50|<50
+2023-08-01|Bus|North Sydney|23|<50|<50
+2023-08-01|Bus|Other|23|2000|3200
+2023-08-01|Bus|Parramatta|23|100|100
+2023-08-01|Bus|Strathfield|23|<50|<50
+2023-08-01|Bus|Sydney CBD|23|900|300
+2023-08-01|Bus|Wollongong and surrounds|23|<50|<50
+2023-08-01|Bus|All - NSW|23|3100|3600
+2023-08-01|Ferry|Other|0|<50|<50
+2023-08-01|Ferry|Sydney CBD|0|<50|<50
+2023-08-01|Ferry|All - NSW|0|<50|<50
+2023-08-01|Ferry|Newcastle and surrounds|5|<50|<50
+2023-08-01|Ferry|Other|5|<50|<50
+2023-08-01|Ferry|Sydney CBD|5|<50|<50
+2023-08-01|Ferry|All - NSW|5|<50|<50
+2023-08-01|Ferry|Newcastle and surrounds|6|<50|<50
+2023-08-01|Ferry|North Sydney|6|<50|<50
+2023-08-01|Ferry|Other|6|500|100
+2023-08-01|Ferry|Sydney CBD|6|100|200
+2023-08-01|Ferry|All - NSW|6|600|300
+2023-08-01|Ferry|Newcastle and surrounds|7|<50|100
+2023-08-01|Ferry|North Sydney|7|100|100
+2023-08-01|Ferry|Other|7|2500|200
+2023-08-01|Ferry|Parramatta|7|<50|<50
+2023-08-01|Ferry|Sydney CBD|7|200|1300
+2023-08-01|Ferry|All - NSW|7|2800|1700
+2023-08-01|Ferry|Newcastle and surrounds|8|<50|100
+2023-08-01|Ferry|North Sydney|8|200|200
+2023-08-01|Ferry|Other|8|2500|400
+2023-08-01|Ferry|Parramatta|8|<50|<50
+2023-08-01|Ferry|Sydney CBD|8|400|3100
+2023-08-01|Ferry|All - NSW|8|3100|3800
+2023-08-01|Ferry|Newcastle and surrounds|9|<50|<50
+2023-08-01|Ferry|North Sydney|9|100|100
+2023-08-01|Ferry|Other|9|800|500
+2023-08-01|Ferry|Parramatta|9|<50|<50
+2023-08-01|Ferry|Sydney CBD|9|800|1100
+2023-08-01|Ferry|All - NSW|9|1700|1700
+2023-08-01|Ferry|Newcastle and surrounds|10|<50|100
+2023-08-01|Ferry|North Sydney|10|100|<50
+2023-08-01|Ferry|Other|10|700|1000
+2023-08-01|Ferry|Parramatta|10|<50|<50
+2023-08-01|Ferry|Sydney CBD|10|1200|800
+2023-08-01|Ferry|All - NSW|10|2000|1900
+2023-08-01|Ferry|Newcastle and surrounds|11|100|<50
+2023-08-01|Ferry|North Sydney|11|100|<50
+2023-08-01|Ferry|Other|11|800|1200
+2023-08-01|Ferry|Parramatta|11|<50|<50
+2023-08-01|Ferry|Sydney CBD|11|1400|800
+2023-08-01|Ferry|All - NSW|11|2400|2000
+2023-08-01|Ferry|Newcastle and surrounds|12|<50|<50
+2023-08-01|Ferry|North Sydney|12|100|100
+2023-08-01|Ferry|Other|12|800|1300
+2023-08-01|Ferry|Parramatta|12|<50|<50
+2023-08-01|Ferry|Sydney CBD|12|1200|1000
+2023-08-01|Ferry|All - NSW|12|2100|2400
+2023-08-01|Ferry|Newcastle and surrounds|13|100|100
+2023-08-01|Ferry|North Sydney|13|100|100
+2023-08-01|Ferry|Other|13|1000|1100
+2023-08-01|Ferry|Parramatta|13|<50|<50
+2023-08-01|Ferry|Sydney CBD|13|1400|1100
+2023-08-01|Ferry|All - NSW|13|2600|2400
+2023-08-01|Ferry|Newcastle and surrounds|14|<50|<50
+2023-08-01|Ferry|North Sydney|14|100|100
+2023-08-01|Ferry|Other|14|1300|1100
+2023-08-01|Ferry|Parramatta|14|<50|<50
+2023-08-01|Ferry|Sydney CBD|14|1300|1400
+2023-08-01|Ferry|All - NSW|14|2700|2600
+2023-08-01|Ferry|Newcastle and surrounds|15|<50|<50
+2023-08-01|Ferry|North Sydney|15|200|100
+2023-08-01|Ferry|Other|15|1300|1100
+2023-08-01|Ferry|Parramatta|15|<50|<50
+2023-08-01|Ferry|Sydney CBD|15|1300|1500
+2023-08-01|Ferry|All - NSW|15|2800|2700
+2023-08-01|Ferry|Newcastle and surrounds|16|100|<50
+2023-08-01|Ferry|North Sydney|16|200|100
+2023-08-01|Ferry|Other|16|1300|1400
+2023-08-01|Ferry|Parramatta|16|<50|<50
+2023-08-01|Ferry|Sydney CBD|16|1800|1600
+2023-08-01|Ferry|All - NSW|16|3400|3100
+2023-08-01|Ferry|Newcastle and surrounds|17|100|<50
+2023-08-01|Ferry|North Sydney|17|300|100
+2023-08-01|Ferry|Other|17|900|2400
+2023-08-01|Ferry|Parramatta|17|<50|<50
+2023-08-01|Ferry|Sydney CBD|17|2500|1300
+2023-08-01|Ferry|All - NSW|17|3800|3800
+2023-08-01|Ferry|Newcastle and surrounds|18|<50|<50
+2023-08-01|Ferry|North Sydney|18|200|100
+2023-08-01|Ferry|Other|18|300|1900
+2023-08-01|Ferry|Sydney CBD|18|1300|800
+2023-08-01|Ferry|All - NSW|18|1800|2800
+2023-08-01|Ferry|Newcastle and surrounds|19|<50|<50
+2023-08-01|Ferry|North Sydney|19|100|100
+2023-08-01|Ferry|Other|19|100|600
+2023-08-01|Ferry|Sydney CBD|19|500|300
+2023-08-01|Ferry|All - NSW|19|700|1000
+2023-08-01|Ferry|Newcastle and surrounds|20|<50|<50
+2023-08-01|Ferry|North Sydney|20|<50|<50
+2023-08-01|Ferry|Other|20|100|300
+2023-08-01|Ferry|Sydney CBD|20|300|200
+2023-08-01|Ferry|All - NSW|20|400|500
+2023-08-01|Ferry|Newcastle and surrounds|21|<50|<50
+2023-08-01|Ferry|North Sydney|21|<50|<50
+2023-08-01|Ferry|Other|21|200|200
+2023-08-01|Ferry|Sydney CBD|21|300|200
+2023-08-01|Ferry|All - NSW|21|500|400
+2023-08-01|Ferry|Newcastle and surrounds|22|<50|<50
+2023-08-01|Ferry|North Sydney|22|<50|<50
+2023-08-01|Ferry|Other|22|100|100
+2023-08-01|Ferry|Sydney CBD|22|100|200
+2023-08-01|Ferry|All - NSW|22|200|300
+2023-08-01|Ferry|North Sydney|23|<50|<50
+2023-08-01|Ferry|Other|23|<50|<50
+2023-08-01|Ferry|Sydney CBD|23|<50|100
+2023-08-01|Ferry|All - NSW|23|<50|100
+2023-08-01|Light rail|Newcastle and surrounds|0|<50|<50
+2023-08-01|Light rail|Other|0|<50|100
+2023-08-01|Light rail|Sydney CBD|0|100|100
+2023-08-01|Light rail|All - NSW|0|100|200
+2023-08-01|Light rail|Other|1|<50|<50
+2023-08-01|Light rail|Sydney CBD|1|<50|<50
+2023-08-01|Light rail|All - NSW|1|<50|<50
+2023-08-01|Light rail|Other|4|<50|<50
+2023-08-01|Light rail|Sydney CBD|4|<50|<50
+2023-08-01|Light rail|All - NSW|4|<50|<50
+2023-08-01|Light rail|Newcastle and surrounds|5|<50|<50
+2023-08-01|Light rail|Other|5|300|200
+2023-08-01|Light rail|Sydney CBD|5|500|200
+2023-08-01|Light rail|All - NSW|5|800|400
+2023-08-01|Light rail|Newcastle and surrounds|6|<50|<50
+2023-08-01|Light rail|Other|6|900|900
+2023-08-01|Light rail|Sydney CBD|6|1100|900
+2023-08-01|Light rail|All - NSW|6|2000|1800
+2023-08-01|Light rail|Newcastle and surrounds|7|200|100
+2023-08-01|Light rail|Other|7|2600|1800
+2023-08-01|Light rail|Sydney CBD|7|2900|2200
+2023-08-01|Light rail|All - NSW|7|5700|4100
+2023-08-01|Light rail|Newcastle and surrounds|8|300|300
+2023-08-01|Light rail|Other|8|3900|4500
+2023-08-01|Light rail|Sydney CBD|8|6500|5500
+2023-08-01|Light rail|All - NSW|8|10700|10300
+2023-08-01|Light rail|Newcastle and surrounds|9|200|200
+2023-08-01|Light rail|Other|9|1600|3600
+2023-08-01|Light rail|Sydney CBD|9|4600|4000
+2023-08-01|Light rail|All - NSW|9|6400|7800
+2023-08-01|Light rail|Newcastle and surrounds|10|200|100
+2023-08-01|Light rail|Other|10|1400|2400
+2023-08-01|Light rail|Sydney CBD|10|3800|2800
+2023-08-01|Light rail|All - NSW|10|5400|5300
+2023-08-01|Light rail|Newcastle and surrounds|11|200|200
+2023-08-01|Light rail|Other|11|1500|2300
+2023-08-01|Light rail|Sydney CBD|11|3900|3200
+2023-08-01|Light rail|All - NSW|11|5600|5700
+2023-08-01|Light rail|Newcastle and surrounds|12|200|200
+2023-08-01|Light rail|Other|12|1700|2200
+2023-08-01|Light rail|Sydney CBD|12|4700|4100
+2023-08-01|Light rail|All - NSW|12|6600|6500
+2023-08-01|Light rail|Newcastle and surrounds|13|200|200
+2023-08-01|Light rail|Other|13|2000|2600
+2023-08-01|Light rail|Sydney CBD|13|5000|4400
+2023-08-01|Light rail|All - NSW|13|7200|7200
+2023-08-01|Light rail|Newcastle and surrounds|14|200|200
+2023-08-01|Light rail|Other|14|2200|2400
+2023-08-01|Light rail|Sydney CBD|14|5000|4500
+2023-08-01|Light rail|All - NSW|14|7400|7100
+2023-08-01|Light rail|Newcastle and surrounds|15|200|200
+2023-08-01|Light rail|Other|15|3100|2900
+2023-08-01|Light rail|Sydney CBD|15|5300|5300
+2023-08-01|Light rail|All - NSW|15|8600|8400
+2023-08-01|Light rail|Newcastle and surrounds|16|200|200
+2023-08-01|Light rail|Other|16|4000|3300
+2023-08-01|Light rail|Sydney CBD|16|6300|6400
+2023-08-01|Light rail|All - NSW|16|10500|9900
+2023-08-01|Light rail|Newcastle and surrounds|17|200|200
+2023-08-01|Light rail|Other|17|4300|4500
+2023-08-01|Light rail|Sydney CBD|17|7800|7600
+2023-08-01|Light rail|All - NSW|17|12300|12300
+2023-08-01|Light rail|Newcastle and surrounds|18|100|100
+2023-08-01|Light rail|Other|18|2700|3400
+2023-08-01|Light rail|Sydney CBD|18|4900|5600
+2023-08-01|Light rail|All - NSW|18|7700|9100
+2023-08-01|Light rail|Newcastle and surrounds|19|<50|<50
+2023-08-01|Light rail|Other|19|1500|1800
+2023-08-01|Light rail|Sydney CBD|19|2800|2900
+2023-08-01|Light rail|All - NSW|19|4300|4700
+2023-08-01|Light rail|Newcastle and surrounds|20|<50|<50
+2023-08-01|Light rail|Other|20|1200|1300
+2023-08-01|Light rail|Sydney CBD|20|2300|2500
+2023-08-01|Light rail|All - NSW|20|3500|3800
+2023-08-01|Light rail|Newcastle and surrounds|21|<50|<50
+2023-08-01|Light rail|Other|21|700|1100
+2023-08-01|Light rail|Sydney CBD|21|1800|1700
+2023-08-01|Light rail|All - NSW|21|2500|2800
+2023-08-01|Light rail|Newcastle and surrounds|22|<50|<50
+2023-08-01|Light rail|Other|22|500|600
+2023-08-01|Light rail|Sydney CBD|22|1000|1000
+2023-08-01|Light rail|All - NSW|22|1500|1600
+2023-08-01|Light rail|Newcastle and surrounds|23|<50|<50
+2023-08-01|Light rail|Other|23|200|300
+2023-08-01|Light rail|Sydney CBD|23|500|500
+2023-08-01|Light rail|All - NSW|23|700|800
+2023-08-01|Train|Chatswood|0|<50|<50
+2023-08-01|Train|Macquarie Park|0|<50|<50
+2023-08-01|Train|Newcastle and surrounds|0|<50|<50
+2023-08-01|Train|North Sydney|0|<50|100
+2023-08-01|Train|Other|0|500|2300
+2023-08-01|Train|Parramatta|0|100|100
+2023-08-01|Train|Strathfield|0|<50|200
+2023-08-01|Train|Sydney CBD|0|500|300
+2023-08-01|Train|Wollongong and surrounds|0|<50|<50
+2023-08-01|Train|All - NSW|0|1100|3000
+2023-08-01|Train|Chatswood|1|<50|<50
+2023-08-01|Train|Newcastle and surrounds|1|<50|<50
+2023-08-01|Train|North Sydney|1|<50|<50
+2023-08-01|Train|Other|1|<50|300
+2023-08-01|Train|Parramatta|1|<50|<50
+2023-08-01|Train|Sydney CBD|1|<50|<50
+2023-08-01|Train|Wollongong and surrounds|1|<50|<50
+2023-08-01|Train|All - NSW|1|<50|300
+2023-08-01|Train|Chatswood|2|<50|<50
+2023-08-01|Train|Newcastle and surrounds|2|<50|<50
+2023-08-01|Train|North Sydney|2|<50|<50
+2023-08-01|Train|Other|2|100|<50
+2023-08-01|Train|Sydney CBD|2|<50|<50
+2023-08-01|Train|Wollongong and surrounds|2|<50|<50
+2023-08-01|Train|All - NSW|2|100|<50
+2023-08-01|Train|Newcastle and surrounds|3|<50|<50
+2023-08-01|Train|Other|3|700|100
+2023-08-01|Train|Parramatta|3|<50|<50
+2023-08-01|Train|Strathfield|3|<50|<50
+2023-08-01|Train|Sydney CBD|3|<50|<50
+2023-08-01|Train|Wollongong and surrounds|3|<50|<50
+2023-08-01|Train|All - NSW|3|700|100
+2023-08-01|Train|Chatswood|4|<50|<50
+2023-08-01|Train|Macquarie Park|4|<50|<50
+2023-08-01|Train|Newcastle and surrounds|4|<50|<50
+2023-08-01|Train|North Sydney|4|<50|<50
+2023-08-01|Train|Other|4|6900|1100
+2023-08-01|Train|Parramatta|4|200|100
+2023-08-01|Train|Strathfield|4|200|<50
+2023-08-01|Train|Sydney CBD|4|500|400
+2023-08-01|Train|Wollongong and surrounds|4|<50|<50
+2023-08-01|Train|All - NSW|4|7800|1600
+2023-08-01|Train|Chatswood|5|100|100
+2023-08-01|Train|Macquarie Park|5|100|200
+2023-08-01|Train|Newcastle and surrounds|5|<50|<50
+2023-08-01|Train|North Sydney|5|200|400
+2023-08-01|Train|Other|5|24100|7100
+2023-08-01|Train|Parramatta|5|700|700
+2023-08-01|Train|Strathfield|5|800|200
+2023-08-01|Train|Sydney CBD|5|1600|4200
+2023-08-01|Train|Wollongong and surrounds|5|200|<50
+2023-08-01|Train|All - NSW|5|27800|12900
+2023-08-01|Train|Chatswood|6|400|600
+2023-08-01|Train|Macquarie Park|6|300|600
+2023-08-01|Train|Newcastle and surrounds|6|<50|<50
+2023-08-01|Train|North Sydney|6|400|1500
+2023-08-01|Train|Other|6|44600|20000
+2023-08-01|Train|Parramatta|6|1200|1600
+2023-08-01|Train|Strathfield|6|1200|500
+2023-08-01|Train|Sydney CBD|6|2900|11800
+2023-08-01|Train|Wollongong and surrounds|6|400|<50
+2023-08-01|Train|All - NSW|6|51400|36600
+2023-08-01|Train|Chatswood|7|1500|1600
+2023-08-01|Train|Macquarie Park|7|1000|1300
+2023-08-01|Train|Newcastle and surrounds|7|100|200
+2023-08-01|Train|North Sydney|7|1300|3500
+2023-08-01|Train|Other|7|105100|32900
+2023-08-01|Train|Parramatta|7|3300|4000
+2023-08-01|Train|Strathfield|7|2400|1000
+2023-08-01|Train|Sydney CBD|7|5500|26700
+2023-08-01|Train|Wollongong and surrounds|7|400|300
+2023-08-01|Train|All - NSW|7|120600|71500
+2023-08-01|Train|Chatswood|8|2200|3500
+2023-08-01|Train|Macquarie Park|8|1600|3400
+2023-08-01|Train|Newcastle and surrounds|8|100|300
+2023-08-01|Train|North Sydney|8|2400|8900
+2023-08-01|Train|Other|8|99200|51600
+2023-08-01|Train|Parramatta|8|3700|7700
+2023-08-01|Train|Strathfield|8|3200|1300
+2023-08-01|Train|Sydney CBD|8|7800|71600
+2023-08-01|Train|Wollongong and surrounds|8|200|400
+2023-08-01|Train|All - NSW|8|120400|148700
+2023-08-01|Train|Chatswood|9|1000|2100
+2023-08-01|Train|Macquarie Park|9|600|2300
+2023-08-01|Train|Newcastle and surrounds|9|<50|100
+2023-08-01|Train|North Sydney|9|1000|4700
+2023-08-01|Train|Other|9|40700|28500
+2023-08-01|Train|Parramatta|9|1700|3700
+2023-08-01|Train|Strathfield|9|1400|700
+2023-08-01|Train|Sydney CBD|9|4800|40500
+2023-08-01|Train|Wollongong and surrounds|9|100|300
+2023-08-01|Train|All - NSW|9|51300|82900
+2023-08-01|Train|Chatswood|10|800|1300
+2023-08-01|Train|Macquarie Park|10|500|1600
+2023-08-01|Train|Newcastle and surrounds|10|<50|100
+2023-08-01|Train|North Sydney|10|800|1400
+2023-08-01|Train|Other|10|29000|19900
+2023-08-01|Train|Parramatta|10|1300|2000
+2023-08-01|Train|Strathfield|10|1000|500
+2023-08-01|Train|Sydney CBD|10|4600|14900
+2023-08-01|Train|Wollongong and surrounds|10|100|200
+2023-08-01|Train|All - NSW|10|38100|41900
+2023-08-01|Train|Chatswood|11|1000|1100
+2023-08-01|Train|Macquarie Park|11|500|1100
+2023-08-01|Train|Newcastle and surrounds|11|100|100
+2023-08-01|Train|North Sydney|11|900|1100
+2023-08-01|Train|Other|11|26100|20200
+2023-08-01|Train|Parramatta|11|1400|1500
+2023-08-01|Train|Strathfield|11|900|600
+2023-08-01|Train|Sydney CBD|11|5900|12300
+2023-08-01|Train|Wollongong and surrounds|11|100|200
+2023-08-01|Train|All - NSW|11|36900|38200
+2023-08-01|Train|Chatswood|12|1100|1100
+2023-08-01|Train|Macquarie Park|12|800|1000
+2023-08-01|Train|Newcastle and surrounds|12|100|100
+2023-08-01|Train|North Sydney|12|1100|900
+2023-08-01|Train|Other|12|26000|22500
+2023-08-01|Train|Parramatta|12|1700|1500
+2023-08-01|Train|Strathfield|12|900|800
+2023-08-01|Train|Sydney CBD|12|8500|10500
+2023-08-01|Train|Wollongong and surrounds|12|200|200
+2023-08-01|Train|All - NSW|12|40400|38600
+2023-08-01|Train|Chatswood|13|1200|1100
+2023-08-01|Train|Macquarie Park|13|900|1000
+2023-08-01|Train|Newcastle and surrounds|13|100|100
+2023-08-01|Train|North Sydney|13|1200|900
+2023-08-01|Train|Other|13|26200|26100
+2023-08-01|Train|Parramatta|13|2000|1800
+2023-08-01|Train|Strathfield|13|1000|800
+2023-08-01|Train|Sydney CBD|13|11300|9500
+2023-08-01|Train|Wollongong and surrounds|13|200|100
+2023-08-01|Train|All - NSW|13|44100|41400
+2023-08-01|Train|Chatswood|14|1600|1200
+2023-08-01|Train|Macquarie Park|14|1300|800
+2023-08-01|Train|Newcastle and surrounds|14|100|100
+2023-08-01|Train|North Sydney|14|2000|900
+2023-08-01|Train|Other|14|33100|33800
+2023-08-01|Train|Parramatta|14|2600|1700
+2023-08-01|Train|Strathfield|14|1000|1100
+2023-08-01|Train|Sydney CBD|14|15600|9500
+2023-08-01|Train|Wollongong and surrounds|14|200|100
+2023-08-01|Train|All - NSW|14|57500|49200
+2023-08-01|Train|Chatswood|15|2600|2200
+2023-08-01|Train|Macquarie Park|15|1900|1300
+2023-08-01|Train|Newcastle and surrounds|15|200|100
+2023-08-01|Train|North Sydney|15|3000|1200
+2023-08-01|Train|Other|15|51100|55900
+2023-08-01|Train|Parramatta|15|4400|2600
+2023-08-01|Train|Strathfield|15|1900|1800
+2023-08-01|Train|Sydney CBD|15|24400|9800
+2023-08-01|Train|Wollongong and surrounds|15|400|200
+2023-08-01|Train|All - NSW|15|89900|75100
+2023-08-01|Train|Chatswood|16|2500|2000
+2023-08-01|Train|Macquarie Park|16|2900|1200
+2023-08-01|Train|Newcastle and surrounds|16|300|100
+2023-08-01|Train|North Sydney|16|4800|1300
+2023-08-01|Train|Other|16|46200|66200
+2023-08-01|Train|Parramatta|16|5900|3000
+2023-08-01|Train|Strathfield|16|1500|2200
+2023-08-01|Train|Sydney CBD|16|38300|11800
+2023-08-01|Train|Wollongong and surrounds|16|300|100
+2023-08-01|Train|All - NSW|16|102700|87900
+2023-08-01|Train|Chatswood|17|3200|2500
+2023-08-01|Train|Macquarie Park|17|3500|1500
+2023-08-01|Train|Newcastle and surrounds|17|300|100
+2023-08-01|Train|North Sydney|17|7400|2100
+2023-08-01|Train|Other|17|46000|88500
+2023-08-01|Train|Parramatta|17|5800|3500
+2023-08-01|Train|Strathfield|17|1500|2700
+2023-08-01|Train|Sydney CBD|17|58200|15300
+2023-08-01|Train|Wollongong and surrounds|17|300|400
+2023-08-01|Train|All - NSW|17|126200|116600
+2023-08-01|Train|Chatswood|18|2000|2200
+2023-08-01|Train|Macquarie Park|18|1900|1300
+2023-08-01|Train|Newcastle and surrounds|18|<50|<50
+2023-08-01|Train|North Sydney|18|2600|1400
+2023-08-01|Train|Other|18|24000|83400
+2023-08-01|Train|Parramatta|18|2700|3900
+2023-08-01|Train|Strathfield|18|1100|2600
+2023-08-01|Train|Sydney CBD|18|30300|9400
+2023-08-01|Train|Wollongong and surrounds|18|100|400
+2023-08-01|Train|All - NSW|18|64700|104600
+2023-08-01|Train|Chatswood|19|1100|900
+2023-08-01|Train|Macquarie Park|19|1000|500
+2023-08-01|Train|Newcastle and surrounds|19|<50|<50
+2023-08-01|Train|North Sydney|19|1000|700
+2023-08-01|Train|Other|19|12700|38700
+2023-08-01|Train|Parramatta|19|1400|1600
+2023-08-01|Train|Strathfield|19|600|1300
+2023-08-01|Train|Sydney CBD|19|14700|4200
+2023-08-01|Train|Wollongong and surrounds|19|100|200
+2023-08-01|Train|All - NSW|19|32600|48100
+2023-08-01|Train|Chatswood|20|800|500
+2023-08-01|Train|Macquarie Park|20|600|400
+2023-08-01|Train|Newcastle and surrounds|20|<50|<50
+2023-08-01|Train|North Sydney|20|600|500
+2023-08-01|Train|Other|20|11000|22400
+2023-08-01|Train|Parramatta|20|1000|900
+2023-08-01|Train|Strathfield|20|600|900
+2023-08-01|Train|Sydney CBD|20|11700|2800
+2023-08-01|Train|Wollongong and surrounds|20|<50|100
+2023-08-01|Train|All - NSW|20|26300|28500
+2023-08-01|Train|Chatswood|21|600|500
+2023-08-01|Train|Macquarie Park|21|400|300
+2023-08-01|Train|Newcastle and surrounds|21|<50|<50
+2023-08-01|Train|North Sydney|21|500|500
+2023-08-01|Train|Other|21|9000|20200
+2023-08-01|Train|Parramatta|21|800|800
+2023-08-01|Train|Strathfield|21|500|900
+2023-08-01|Train|Sydney CBD|21|9900|2500
+2023-08-01|Train|Wollongong and surrounds|21|<50|100
+2023-08-01|Train|All - NSW|21|21700|25800
+2023-08-01|Train|Chatswood|22|300|300
+2023-08-01|Train|Macquarie Park|22|200|200
+2023-08-01|Train|Newcastle and surrounds|22|<50|<50
+2023-08-01|Train|North Sydney|22|300|200
+2023-08-01|Train|Other|22|5300|13000
+2023-08-01|Train|Parramatta|22|500|500
+2023-08-01|Train|Strathfield|22|300|900
+2023-08-01|Train|Sydney CBD|22|5500|1800
+2023-08-01|Train|Wollongong and surrounds|22|<50|<50
+2023-08-01|Train|All - NSW|22|12400|16900
+2023-08-01|Train|Chatswood|23|100|100
+2023-08-01|Train|Macquarie Park|23|100|100
+2023-08-01|Train|Newcastle and surrounds|23|<50|<50
+2023-08-01|Train|North Sydney|23|100|100
+2023-08-01|Train|Other|23|2100|6800
+2023-08-01|Train|Parramatta|23|200|300
+2023-08-01|Train|Strathfield|23|100|400
+2023-08-01|Train|Sydney CBD|23|2500|800
+2023-08-01|Train|Wollongong and surrounds|23|<50|<50
+2023-08-01|Train|All - NSW|23|5200|8600
+2023-08-01|UNKNOWN|Other|0|<50|<50
+2023-08-01|UNKNOWN|All - NSW|0|<50|<50
+2023-08-01|UNKNOWN|Other|4|<50|<50
+2023-08-01|UNKNOWN|All - NSW|4|<50|<50
+2023-08-01|UNKNOWN|Other|5|<50|<50
+2023-08-01|UNKNOWN|All - NSW|5|<50|<50
+2023-08-01|UNKNOWN|Other|6|<50|<50
+2023-08-01|UNKNOWN|All - NSW|6|<50|<50
+2023-08-01|UNKNOWN|Other|7|<50|<50
+2023-08-01|UNKNOWN|All - NSW|7|<50|<50
+2023-08-01|UNKNOWN|Other|8|<50|<50
+2023-08-01|UNKNOWN|All - NSW|8|<50|<50
+2023-08-01|UNKNOWN|Other|9|<50|<50
+2023-08-01|UNKNOWN|All - NSW|9|<50|<50
+2023-08-01|UNKNOWN|Other|10|<50|<50
+2023-08-01|UNKNOWN|All - NSW|10|<50|<50
+2023-08-01|UNKNOWN|Other|11|<50|<50
+2023-08-01|UNKNOWN|All - NSW|11|<50|<50
+2023-08-01|UNKNOWN|Other|12|<50|<50
+2023-08-01|UNKNOWN|All - NSW|12|<50|<50
+2023-08-01|UNKNOWN|Other|13|<50|<50
+2023-08-01|UNKNOWN|All - NSW|13|<50|<50
+2023-08-01|UNKNOWN|Other|14|<50|<50
+2023-08-01|UNKNOWN|All - NSW|14|<50|<50
+2023-08-01|UNKNOWN|Other|15|<50|<50
+2023-08-01|UNKNOWN|All - NSW|15|<50|<50
+2023-08-01|UNKNOWN|Other|16|<50|<50
+2023-08-01|UNKNOWN|All - NSW|16|<50|<50
+2023-08-01|UNKNOWN|Other|17|<50|<50
+2023-08-01|UNKNOWN|All - NSW|17|<50|<50
+2023-08-01|UNKNOWN|Other|18|<50|<50
+2023-08-01|UNKNOWN|All - NSW|18|<50|<50
+2023-08-01|UNKNOWN|Other|19|<50|<50
+2023-08-01|UNKNOWN|All - NSW|19|<50|<50
